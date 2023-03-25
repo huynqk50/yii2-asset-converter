@@ -17,8 +17,7 @@
         "yiisoft/yii2-composer": "2.*",
         "wikimedia/less.php": "3.0.0.*",
         "richthegeek/phpsass": "1.*",
-        "scssphp/scssphp": "1.*",
-        "yourilima/scssphp-compass": "1.*"
+        "scssphp/scssphp": "1.*"
     },
     "autoload": {
         "psr-0": { "nizsheanez\\assetConverter\\": "" }
